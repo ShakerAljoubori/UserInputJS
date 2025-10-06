@@ -1,0 +1,14 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input label, input {
+    margin-bottom: 15px;
+}
